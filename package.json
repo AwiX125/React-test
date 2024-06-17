@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/AwiX125/React-test.git",
+  "homepage": "https://AwiX125.github.io/React-test.git",
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
