@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/React-test.git/static/css/main.f855e6bc.css",
-    "main.js": "/React-test.git/static/js/main.04b28c8e.js",
-    "static/js/453.9a0edc82.chunk.js": "/React-test.git/static/js/453.9a0edc82.chunk.js",
-    "static/media/logo.svg": "/React-test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/React-test.git/static/css/main.6a0fe49f.css",
+    "main.js": "/React-test.git/static/js/main.446c93dc.js",
     "index.html": "/React-test.git/index.html",
-    "main.f855e6bc.css.map": "/React-test.git/static/css/main.f855e6bc.css.map",
-    "main.04b28c8e.js.map": "/React-test.git/static/js/main.04b28c8e.js.map",
-    "453.9a0edc82.chunk.js.map": "/React-test.git/static/js/453.9a0edc82.chunk.js.map"
+    "main.6a0fe49f.css.map": "/React-test.git/static/css/main.6a0fe49f.css.map",
+    "main.446c93dc.js.map": "/React-test.git/static/js/main.446c93dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.04b28c8e.js"
+    "static/css/main.6a0fe49f.css",
+    "static/js/main.446c93dc.js"
   ]
 }
